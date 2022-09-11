@@ -5,4 +5,14 @@ copyfile(fullfile(matlabroot,'toolbox','shared','cmlink','git','auxiliary_files'
 *.jpg binary
 *.pdf binary
 *.docx binary
+*.mlx binary
+*.mat binary
+*.fig binary
+*.mlapp binary
+*.mdl binary
+*.slx binary
+*.mdlp binary
+*.slxp binary
+*.sldd binary
+*.p  binary
 
